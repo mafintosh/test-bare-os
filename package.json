@@ -1,6 +1,6 @@
 {
-  "name": "bare-os",
-  "version": "3.8.2",
+  "name": "test-bare-os",
+  "version": "3.8.0",
   "description": "Operating system utilities for Javascript",
   "exports": {
     ".": {
@@ -26,14 +26,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/holepunchto/bare-os.git"
+    "url": "git+https://github.com/mafintosh/test-bare-os.git"
   },
   "author": "Holepunch",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/holepunchto/bare-os/issues"
+    "url": "https://github.com/mafintosh/test-bare-os/issues"
   },
-  "homepage": "https://github.com/holepunchto/bare-os#readme",
+  "homepage": "https://github.com/mafintosh/test-bare-os#readme",
   "engines": {
     "bare": ">=1.14.0"
   },
