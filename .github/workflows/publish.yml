@@ -73,6 +73,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     needs: prebuild
+    environment: release
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-node@v6
